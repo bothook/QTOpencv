@@ -1,1 +1,1 @@
-# QTOpencv
+# opencvStudy
